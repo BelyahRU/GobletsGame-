@@ -20,6 +20,9 @@ UIButton,UIScrollView, UIImageView, UIImage, UIStackView, UILabel, SnapKit,UIFon
 UITableViewDelegate, UITableViewDataSource, SceneDelegate, Custom Fonts,Custom Images,Custom Buttons, Custom Switches, 
 Custom Backgrounds, UIAlert, UIAlertController.
 
+
 Предложения по работе/стажировке. И рассмотрю любое сотрудничество не обязательно за деньги
+
+<img src="https://github.com/BelyahRU/GobletsGame-/assets/93776512/28e454a5-0ba5-468d-97ca-339ce11bc98c" width="200" />
 
 <img src="https://github.com/BelyahRU/GobletsGame-/assets/93776512/26e300a6-b7f2-4fbc-af40-7ee500ebb674" width="200" />

@@ -22,4 +22,4 @@ Custom Backgrounds, UIAlert, UIAlertController.
 
 Предложения по работе/стажировке. И рассмотрю любое сотрудничество не обязательно за деньги
 
-<gif src="https://github.com/BelyahRU/GobletsGame-/assets/93776512/26e300a6-b7f2-4fbc-af40-7ee500ebb674" width="200" />
+<img src="https://github.com/BelyahRU/GobletsGame-/assets/93776512/26e300a6-b7f2-4fbc-af40-7ee500ebb674" width="200" />
